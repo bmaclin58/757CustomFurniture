@@ -1,7 +1,0 @@
-# PostgreSQL
-# ------------------------------------------------------------------------------
-POSTGRES_HOST=postgres
-POSTGRES_PORT=5432
-POSTGRES_DB=customfurniture3
-POSTGRES_USER=zTnweARUqPSPMPGYUZtFskSfYCbPZUyI
-POSTGRES_PASSWORD=fzIKaH5oNs5P0731vS8pAde7aktCQbrN9NRq4GwxzDSUXl0TTzRjSs3dLnSM52Lh
